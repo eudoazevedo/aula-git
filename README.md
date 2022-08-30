@@ -1,3 +1,3 @@
 # aula-git
 
-respoitorio da aula de git 
+repositorio da aula de git 
